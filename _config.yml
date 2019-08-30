@@ -89,5 +89,5 @@ deploy:
   repo: git@github.com:hubingkang/hubingkang.github.io.git
   branch: master
 
-plugins:
+Plugins:
 - hexo-generator-cname
